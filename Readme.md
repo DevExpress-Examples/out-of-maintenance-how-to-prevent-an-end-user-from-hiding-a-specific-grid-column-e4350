@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [AbsoluteVisible.cs](./CS/DXSample/AbsoluteVisible.cs) (VB: [AbsoluteVisible.vb](./VB/DXSample/AbsoluteVisible.vb))
+* [CustomRemoveColumnDropTarget.cs](./CS/DXSample/CustomRemoveColumnDropTarget.cs) (VB: [CustomRemoveColumnDropTarget.vb](./VB/DXSample/CustomRemoveColumnDropTarget.vb))
+* [CustomTableView.cs](./CS/DXSample/CustomTableView.cs) (VB: [CustomTableView.vb](./VB/DXSample/CustomTableView.vb))
+* [DataHelper.cs](./CS/DXSample/DataHelper.cs) (VB: [DataHelper.vb](./VB/DXSample/DataHelper.vb))
+* [MainWindow.xaml](./CS/DXSample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DXSample/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/DXSample/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/DXSample/MainWindow.xaml))
+<!-- default file list end -->
 # How to prevent an end-user from hiding a specific grid column
 
 
