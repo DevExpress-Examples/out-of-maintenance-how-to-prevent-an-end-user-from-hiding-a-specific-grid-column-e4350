@@ -6,7 +6,7 @@
 * [CustomTableView.cs](./CS/DXSample/CustomTableView.cs) (VB: [CustomTableView.vb](./VB/DXSample/CustomTableView.vb))
 * [DataHelper.cs](./CS/DXSample/DataHelper.cs) (VB: [DataHelper.vb](./VB/DXSample/DataHelper.vb))
 * [MainWindow.xaml](./CS/DXSample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DXSample/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/DXSample/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/DXSample/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/DXSample/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/DXSample/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to prevent an end-user from hiding a specific grid column
 
