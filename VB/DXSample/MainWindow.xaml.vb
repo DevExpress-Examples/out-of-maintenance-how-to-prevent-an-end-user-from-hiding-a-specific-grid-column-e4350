@@ -1,5 +1,4 @@
-﻿Imports Microsoft.VisualBasic
-Imports System
+﻿Imports System
 Imports System.Collections.Generic
 Imports System.Linq
 Imports System.Text
@@ -17,6 +16,7 @@ Imports DevExpress.Xpf.Grid
 Namespace DXSample
 	Partial Public Class MainWindow
 		Inherits Window
+
 		Public Sub New()
 			InitializeComponent()
 			grid.ItemsSource = DataHelper.GetData()

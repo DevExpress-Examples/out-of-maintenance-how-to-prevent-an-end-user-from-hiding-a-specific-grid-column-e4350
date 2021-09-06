@@ -1,5 +1,4 @@
-Imports Microsoft.VisualBasic
-Imports System
+﻿Imports System
 Imports System.Collections.Generic
 Imports System.Linq
 Imports System.Text
@@ -11,6 +10,7 @@ Imports DevExpress.Xpf.Grid
 Namespace DXSample
 	Public Class CustomRemoveColumnDropTarget
 		Inherits RemoveColumnDropTarget
+
 		Public Overrides Sub Drop(ByVal source As UIElement, ByVal pt As Point)
 			Dim view As TableView = TryCast(GetDataView(source), TableView)
 			Dim column As GridColumn = TryCast((TryCast(source, GridColumnHeader)).DataContext, GridColumn)
